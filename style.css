@@ -1,0 +1,30 @@
+body{
+    background-image: url("b.jpg");
+    background-size: cover;
+}
+.head{
+    font-size: 22px;
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    border: 5px ridge wheat;
+    box-shadow: 5px 5px 10px teal;
+}
+.Note{
+    font-size: 15px;
+    color: red;
+}
+.footer{
+    background-color: violet;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 2.5;
+    color: wheat;
+    border: 5px ridge rgb(255, 255, 0);
+}
+canvas{
+    background-color: white;
+    border: 10px ridge teal;
+    border-radius: 50px;
+}
